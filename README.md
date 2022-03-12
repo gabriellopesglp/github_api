@@ -10,13 +10,13 @@ Desafio da trilha Elixir da [Rocketseat Ignite](https://rocketseat.com.br).
 * [Phoenix](https://www.phoenixframework.org/)
 * [Ecto](https://hexdocs.pm/ecto/Ecto.html)
 
-## :wrench: Setup
+## :wrench: Configuração
 
   * Instale as dependências com `mix deps.get`
   * Para iniciar o Ecto `mix ecto.setup`
   * Para iniciar o servidor Phoenix `mix phx.server`
 
-## :white_check_mark: Test
+## :white_check_mark: Testes
 
 Para rodar os testes:
 
